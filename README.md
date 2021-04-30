@@ -52,10 +52,10 @@
 <h2 align="center">Tecnologias 📲</h2>
 
    <p>
-	As seguintes ferramentas foram usadas na construção do projeto:
+As seguintes ferramentas foram usadas na construção do projeto:
 
-	- [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-	- [Node.js](https://www.w3schools.com/css/)
+-   **[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)**
+-   **[CSS](https://www.w3schools.com/css/)**
 
    </p>
 
