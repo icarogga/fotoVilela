@@ -16,9 +16,11 @@
 ---
 
 <h2 align="center">Status ✔️</h2>
-<p>
+<p align = "center">
 	Finalizado 🏁
 </p>
+
+---
 
 <h2 align="center">Sobre 📖</h2>
    
