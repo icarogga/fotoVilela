@@ -28,6 +28,7 @@
 	<img src="img/2.png" alt="sobre e serviços">
 	<img src="img/3.png" alt="fotos">
 	<img src="img/4.png" alt="contatos">
+	
 ---
 
 <h2 align="center">Funcionalidades 🛠️</h2>
