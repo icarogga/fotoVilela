@@ -5,7 +5,6 @@
    <p>
    
    - [Sobre 📖](#sobre-)
-   - [Status ✔️](#status-)
    - [Layout 🖥️](#layout-)
    - [Funcionalidades 🛠️](#funcionalidades-%EF%B8%8F)
    - [Tecnologias 📲](#tecnologias-)
