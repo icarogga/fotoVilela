@@ -1,7 +1,7 @@
 <h1 align="center">Foto Vilela</h1>
 
 <h4 align="center"> 
-	✔️  Foto Vilela 🏁 Concluído ✔️
+	Concluído ✔️
 </h4>
 
    <h2 align="center">Tópicos 📋</h2>
