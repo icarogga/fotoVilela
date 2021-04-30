@@ -5,6 +5,7 @@
    <p>
    
    - [Sobre 📖](#sobre-)
+   - [Status ✔️](#status-)
    - [Layout 🖥️](#layout-)
    - [Funcionalidades 🛠️](#funcionalidades-%EF%B8%8F)
    - [Tecnologias 📲](#tecnologias-)
@@ -14,9 +15,10 @@
 
 ---
 
-<h2 align="center"> 
-	✔️  Foto Vilela 🏁 Finalizado!  ✔️
-</h2>
+<h2 align="center">Status ✔️</h2>
+<p>
+	Finalizado 🏁
+</p>
 
 <h2 align="center">Sobre 📖</h2>
    
@@ -52,7 +54,6 @@
 <h2 align="center">Tecnologias 📲</h2>
 
    <p>
-As seguintes ferramentas foram usadas na construção do projeto:
 
 -   **[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)**
 -   **[CSS](https://www.w3schools.com/css/)**
