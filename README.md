@@ -5,8 +5,9 @@
    <p>
    
    - [Sobre 📖](#sobre-)
-   - [Preview 📱](#preview-)
+   - [Preview 🖥️](#preview-)
    - [Funcionalidades 🛠️](#funcionalidades-%EF%B8%8F)
+   - [Tecnologias 📲](#tecnologias-)
    - [Como utilizar 🤔](#como-utilizar-)
 
    </p>
@@ -21,6 +22,10 @@
 </p>
 
 ---
+
+<h2 align="center"> 
+	✔️  Foto Vilela 🏁 Finalizado!  ✔️
+</h2>
 
 <h2 align="center">Preview 📱</h2>
 
@@ -44,9 +49,25 @@
 
 ---
 
+<h2 align="center">Tecnologias 📲</h2>
+
+   <p>
+	As seguintes ferramentas foram usadas na construção do projeto:
+
+	- [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+	- [Node.js](https://www.w3schools.com/css/)
+
+   </p>
+
+---
+
 <h2 align="center">Como utilizar 🤔</h2>
 
    ```
+    Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+    [Git](https://git-scm.com). 
+    Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+   
    - Clone este repositório:
    $ git clone https://github.com/icarogga/fotoVilela.git
 
@@ -55,6 +76,8 @@
 
 ---
 
-   >Este projeto foi desenvolvido com o ❤️ por **[@Ícaro Coêlho](https://github.com/icarogga?tab=following)**
+   >Este projeto foi desenvolvido com o ❤️ por **[@Ícaro Coêlho](https://github.com/icarogga?tab=following)** 👋🏽 Entre em contato!
+   >[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ícaro-coelho-3a5b60206/)](https://www.linkedin.com/in/ícaro-coelho-3a5b60206/) 
+[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:icarogga@gmail.com)](mailto:icarogga@gmail.com)
 
 ---
