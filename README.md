@@ -24,13 +24,9 @@
 
 ---
 
-<h2 align="center">Status ✔️</h2>
-   
-<p align="center">
-  🏁 Finalizado 🏁 
-</p>
-
----
+<h4 align="center"> 
+	✔️  Foto Vilela 🏁 Concluído ✔️
+</h4>
 
 <h2 align="center">Layout 📱</h2>
 
