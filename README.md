@@ -15,18 +15,19 @@
 
 ---
 
-<h2 align="center">Status ✔️</h2>
-<p align = "center">
-	Finalizado 🏁
-</p>
-
----
-
 <h2 align="center">Sobre 📖</h2>
    
 <p align="center">
   Buscando preencher a necessidade de uma maneira fácil de encontrar o estúdio de fotografia, o site foi desenvolvido com o intuito de ser a principal maneira de encontrar
   os contatos do mesmo. 
+</p>
+
+---
+
+<h2 align="center">Status ✔️</h2>
+   
+<p align="center">
+  🏁 Finalizado 🏁 
 </p>
 
 ---
