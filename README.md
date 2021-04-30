@@ -5,7 +5,7 @@
    <p>
    
    - [Sobre 📖](#sobre-)
-   - [Preview 🖥️](#preview-)
+   - [layout 🖥️](#layout-)
    - [Funcionalidades 🛠️](#funcionalidades-%EF%B8%8F)
    - [Tecnologias 📲](#tecnologias-)
    - [Como utilizar 🤔](#como-utilizar-)
@@ -27,7 +27,7 @@
 	✔️  Foto Vilela 🏁 Finalizado!  ✔️
 </h2>
 
-<h2 align="center">Preview 📱</h2>
+<h2 align="center">Layout 📱</h2>
 
   <img src="img/1.png" alt="fotografo">
 	<img src="img/2.png" alt="sobre e serviços">
@@ -63,11 +63,13 @@
 
 <h2 align="center">Como utilizar 🤔</h2>
 
+   ### Pré-requisitos
+
+   Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+   [Git](https://git-scm.com). 
+   Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
    ```
-    Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-    [Git](https://git-scm.com). 
-    Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
-   
    - Clone este repositório:
    $ git clone https://github.com/icarogga/fotoVilela.git
 
@@ -76,9 +78,29 @@
 
 ---
 
+## 💪 Como contribuir para o projeto
+
+1. Faça um **fork** do projeto.
+2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
+4. Envie as suas alterações: `git push origin my-feature`
+> Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md)
+
+---
+
+   ## 🦸 Autor
+
    Este projeto foi desenvolvido com o ❤️ por **[@Ícaro Coêlho](https://github.com/icarogga?tab=following)** 👋🏽 Entre em contato!
    
    [![Linkedin Badge](https://img.shields.io/badge/-Ícaro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ícaro-coelho-3a5b60206/)](https://www.linkedin.com/in/ícaro-coelho-3a5b60206/) 
 [![Gmail Badge](https://img.shields.io/badge/-icarogga@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:icarogga@gmail.com)](mailto:icarogga@gmail.com)
+
+---
+
+## 📝 Licença
+
+Este projeto esta sobe a licença [MIT](./LICENSE).
+
+<img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 
 ---
